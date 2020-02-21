@@ -13,3 +13,11 @@
         }
     }
 </script>
+
+
+<style>
+    .notification {
+        color: red;
+        background-color: green;
+    }
+</style>
